@@ -1,4 +1,7 @@
+# How React Works (updated)
 # Getting Started with Create React App
+
+## I will read [react.org completely](https://legacy.reactjs.org/docs/hello-world.html)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
